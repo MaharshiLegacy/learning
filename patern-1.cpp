@@ -8,7 +8,7 @@ int main()
     {
         for(j=1;j<=i;j++)
         {
-            cout<<j<<" ";
+            cout<<j<<" "<<ends;
         }
     cout<<endl;
     }
